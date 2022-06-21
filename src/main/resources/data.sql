@@ -1,4 +1,4 @@
-INSERT INTO STOPS (id, stop) VALUES
+INSERT INTO STOPS (id, name) VALUES
   (1, 'Majestic'),
   (2, 'Central Silk Board'),
   (3, 'Shivaji Nagar'),
